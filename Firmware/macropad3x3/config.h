@@ -1,0 +1,13 @@
+#pragma once
+
+#define MATRIX_ROWS 3
+#define MATRIX_COLS 3
+
+// --- BOOTMAGIC ---
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 0
+
+// --- VIAL: VARIABILI OBBLIGATORIE ---
+#define VIAL_KEYBOARD_UID {0x9A, 0xB3, 0x4F, 0x21, 0x77, 0x88, 0x19, 0xCC}
+#define VIAL_UNLOCK_COMBO_ROWS {0, 0}
+#define VIAL_UNLOCK_COMBO_COLS {0, 1}
