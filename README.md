@@ -62,7 +62,7 @@ In this repository you will find all the hardware and firmware files related to 
 
 ## 💎 Get Your Own & Discover More
 
-To see the full gallery, read the extended manual, or check the interactive map of where MACROLABs have been shipped, visit the official website:
+To see the full gallery, read the extended manual, visit the official website:
 
 **🌐 [macrolab.netlify.app](https://macrolab.netlify.app)**
 
